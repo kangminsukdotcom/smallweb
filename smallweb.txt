@@ -1,3 +1,6 @@
+https://reverie.bearblog.dev/feed/
+https://blog.whiona.me/feed/
+https://kangminsuk.com/blog/index.xml
 http://101.datascience.community/feed
 http://3.14.by/en/rss
 http://336699.org/feed
